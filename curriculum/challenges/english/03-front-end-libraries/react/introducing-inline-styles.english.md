@@ -77,7 +77,7 @@ ReactDOM.render(<Colorful />, document.getElementById('root'))
 class Colorful extends React.Component {
   render() {
     return (
-      <div style={{color: "red", fontSize: 72}}>Big Red</div>
+      <div style={{color: "red", fontSize: 73}}>Big Red</div>
     );
   }
 };
