@@ -14,6 +14,8 @@ Broadly, we can divide the life cycle methods into **3** categories.
 
 As life cycle methods are self explanatory, I'm just going to mention the method names. Please feel free to contribute to this article, if necessary.
 
+![LifeCycle](https://github.com/avinash28196/Notes/blob/master/ReactNotes/Images/Screen%20Shot%202018-06-11%20at%207.02.17%20PM.png)
+
 
 ## Mounting:
 
